@@ -6,5 +6,7 @@ public class Halloworld {
 		System.out.println("Hallo I am passed");
 	}
 
-	
+	public int subtract(int a, int b){
+		return a-b;
+	}
 }
